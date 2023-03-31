@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\86176\source\repos\冒泡排序\冒泡排序\test.c(15,10): warning C4047: “函数”:“int”与“int [10]”的间接级别不同
+C:\Users\86176\source\repos\冒泡排序\冒泡排序\test.c(15,7): warning C4024: “Sort”: 形参和实参 1 的类型不同
+C:\Users\86176\source\repos\冒泡排序\冒泡排序\test.c(22,15): warning C4028: 形参 1 与声明不同
+  冒泡排序.vcxproj -> C:\Users\86176\source\repos\冒泡排序\Debug\冒泡排序.exe
