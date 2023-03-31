@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Code\freshman\my_strlen\my_strlen\test.c(9,6): warning C4013: “gets”未定义；假设外部返回 int
+  my_strlen.vcxproj -> D:\Code\freshman\my_strlen\Debug\my_strlen.exe
