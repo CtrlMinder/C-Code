@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "统计整数二进制1的个数", "统计整数二进制1的个数\统计整数二进制1的个数.vcxproj", "{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Debug|x64.ActiveCfg = Debug|x64
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Debug|x64.Build.0 = Debug|x64
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Debug|x86.Build.0 = Debug|Win32
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Release|x64.ActiveCfg = Release|x64
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Release|x64.Build.0 = Release|x64
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Release|x86.ActiveCfg = Release|Win32
+		{EBB3E5BC-71F9-483F-9FE1-BC07395B0752}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5086D6-340B-41B1-9282-E204FA60FC84}
+	EndGlobalSection
+EndGlobal
